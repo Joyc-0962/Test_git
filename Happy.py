@@ -5,3 +5,4 @@ a += 1
 print(a)
 print("Happy New Year")
 print("Revise")
+print("GIT PULL")
